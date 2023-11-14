@@ -50,10 +50,10 @@
             this.richTextBox1.BackColor = System.Drawing.Color.RoyalBlue;
             this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.richTextBox1.Location = new System.Drawing.Point(40, 211);
+            this.richTextBox1.Location = new System.Drawing.Point(40, 169);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
-            this.richTextBox1.Size = new System.Drawing.Size(714, 152);
+            this.richTextBox1.Size = new System.Drawing.Size(714, 194);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
             // 
