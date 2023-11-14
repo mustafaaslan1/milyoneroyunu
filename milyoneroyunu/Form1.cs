@@ -131,14 +131,14 @@ namespace milyoneroyunu
 
             if (sorusayisi == 1)
             {
-                richTextBox1.Text = "Bir yere gitmeyi ifade ederken cümlenin başında kullanılan söz aşağıdakilerden hangisidir?";
+                richTextBox1.Text = "Hep aynı terane sözünde geçen 'terane'nin anlamı nedir?";
 
-                btnA.Text = "A: Sık Dişini";
-                btnB.Text = "B: Kır Dizini";
-                btnC.Text = "C: Ver Elini";
-                btnD.Text = "D: Yum Gözünü";
+                btnA.Text = "A: Hikaye";
+                btnB.Text = "B: Oyun";
+                btnC.Text = "C: Ezgi";
+                btnD.Text = "D: Manzara";
 
-                lbl4.Text = "C: Ver Elini";
+                lbl4.Text = "C: Ezgi";
             }
             if (sorusayisi == 2)
             {
@@ -153,47 +153,47 @@ namespace milyoneroyunu
             }
             if (sorusayisi == 3)
             {
-                richTextBox1.Text = "'Bulutların üzerinde gezmek' sözü hangisini ifade etmek için kullanılır?";
+                richTextBox1.Text = "İpek böceğinin yapraklarını yediği tek ağaç hangisidir?";
 
-                btnA.Text = "A: Cesaret";
-                btnB.Text = "B: Gurur";
-                btnC.Text = "C: Şaşkınlık";
-                btnD.Text = "D: Mutluluk";
+                btnA.Text = "A: İncir";
+                btnB.Text = "B: Kiraz";
+                btnC.Text = "C: Dut";
+                btnD.Text = "D: Şeftali";
 
-                lbl4.Text = "D: Mutluluk";
+                lbl4.Text = "C: Dut";
             }
             if (sorusayisi == 4)
             {
-                richTextBox1.Text = "Hangisi Hollywood filmlerinin mahkeme sahnelerinde sıklıkla duyulan ifadelerden birisidir?";
+                richTextBox1.Text = "'Civcivli' ifadesi nasıl yerler için kullanılır?";
 
-                btnA.Text = "A: Sakin ol şampiyon!";
-                btnB.Text = "B: Bir cisim yaklaşıyor!";
-                btnC.Text = "C: Senin sorunun ne!";
-                btnD.Text = "D: İtiraz ediyorum!";
+                btnA.Text = "A: Sessiz sakin";
+                btnB.Text = "B: Gürültülü patırtılı";
+                btnC.Text = "C: Eski püskü";
+                btnD.Text = "D: Ufak tefek";
 
-                lbl4.Text = "D: İtiraz ediyorum!";
+                lbl4.Text = "B: Gürültülü patırtılı";
             }
             if (sorusayisi == 5)
             {
-                richTextBox1.Text = "Cumhuriyet ilan edildiği zaman Atatürk kaç yaşındaydı?";
+                richTextBox1.Text = "'Çıtır Çıtır' nasıl yiyecekler için söylenen bir sözdür?";
 
-                btnA.Text = "A: 32";
-                btnB.Text = "B: 42";
-                btnC.Text = "C: 52";
-                btnD.Text = "D: 62";
+                btnA.Text = "A: Çok tuzlu";
+                btnB.Text = "B: Çok taze";
+                btnC.Text = "C: Çok tatlı";
+                btnD.Text = "D: Çok yumuşak";
 
-                lbl4.Text = "B: 42";
+                lbl4.Text = "B: Çok taze";
             }
             if (sorusayisi == 6)
             {
-                richTextBox1.Text = "Bir sayının karesi ile toplamı ifade eden matematik terimi aşağıdakilerden hangisidir?";
+                richTextBox1.Text = "Günümüzde popüler bir söz olarak sıklıkla kullanılan ‘şehir efsanesi’ sözü, eski kuşaklar tarafından nasıl söylenir?";
 
-                btnA.Text = "A: Çarpım";
-                btnB.Text = "B: Faktöriyel";
-                btnC.Text = "C: Toplam";
-                btnD.Text = "D: Karekök";
+                btnA.Text = "A: Teamül";
+                btnB.Text = "B: Tahayyül";
+                btnC.Text = "C: Tevatür";
+                btnD.Text = "D: Tezahür";
 
-                lbl4.Text = "C: Toplam";
+                lbl4.Text = "C: Tevatür";
             }
             if (sorusayisi == 7)
             {
@@ -201,43 +201,43 @@ namespace milyoneroyunu
 
                 btnA.Text = "A: Hint Okyanusu";
                 btnB.Text = "B: Atlantik Okyanusu";
-                btnC.Text = "C: Arktik Okyanusu";
+                btnC.Text = "C: Arktik Denizi";
                 btnD.Text = "D: Pasifik Okyanusu";
 
                 lbl4.Text = "D: Pasifik Okyanusu";
             }
             if (sorusayisi == 8)
             {
-                richTextBox1.Text = "5 makinenin 5 cihaz üretmesi 5 dakika sürüyorsa 100 makinenin 100 cihaz üretmesi ne kadar sürer?";
+                richTextBox1.Text = "Payanda nedir?";
 
-                btnA.Text = "A: 5 Dakika";
-                btnB.Text = "B: 25 Dakika";
-                btnC.Text = "C: 1 Saat";
-                btnD.Text = "D: 1 Saat 30 Dakika";
+                btnA.Text = "A: Takla";
+                btnB.Text = "B: Olta";
+                btnC.Text = "C: Çatı";
+                btnD.Text = "D: Destek";
 
-                lbl4.Text = "A: 5 Dakika";
+                lbl4.Text = "D: Destek";
             }
             if (sorusayisi == 9)
             {
-                richTextBox1.Text = "Bir cismin hızının ve konumunun aynı anda bilinmesini sağlayan ilke aşağıdakilerden hangisidir?";
+                richTextBox1.Text = "1924 Anayasası’nda ve 1961 Anayasası’nda Türkiye’nin başkentinin hangisi olduğu yazar?";
 
-                btnA.Text = "A: Heisenberg Belirsizlik İlkesi";
-                btnB.Text = "B: Hareket Yasaları";
-                btnC.Text = "C: Schrödinger Denklemi";
-                btnD.Text = "D: Görelilik Teorisi";
+                btnA.Text = "A: İstanbul";
+                btnB.Text = "B: Ankara";
+                btnC.Text = "C: Erzurum";
+                btnD.Text = "D: Sivas";
 
-                lbl4.Text = "B: Hareket Yasaları";
+                lbl4.Text = "B: Ankara";
             }
             if (sorusayisi == 10)
             {
-                richTextBox1.Text = "William Shakespeare'in hangi oyununda 'Hamlet' karakteri bulunmaktadır?";
+                richTextBox1.Text = "Bir şeyi ‘cephe’den gördüğünüzü söylüyorsanız nereden bakıyorsunuzdur?";
 
-                btnA.Text = "A: Macbeth";
-                btnB.Text = "B: Romeo ve Juliet";
-                btnC.Text = "C: Othello";
-                btnD.Text = "D: Hamlet";
+                btnA.Text = "A: Karşı";
+                btnB.Text = "B: Yan";
+                btnC.Text = "C: Arka";
+                btnD.Text = "D: Üst";
 
-                lbl4.Text = "D: Hamlet";
+                lbl4.Text = "A: Karşı";
             }
         }
 
